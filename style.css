@@ -1,0 +1,75 @@
+.main-container{
+    border: 1px solid black;
+    width: 300px;
+    max-width: 300px;
+    /*padding-left: 30px;
+    padding-bottom:10px;*/
+    border-radius: 4px;
+    background-color: rgb(231, 212, 133);
+   /* margin-top: 70px;
+    margin-left: 80px;*/
+    margin: 80px auto;
+}
+.title{
+    border: 1px solid #222;
+    border-radius: 2px;
+    width: 270px;
+    height: 30px;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.title h4{
+    margin-top: 8px;
+    margin-left: 20px;
+}
+input[type="text"]{
+width: 270px;
+height:50px;
+margin-top:5px;
+margin-left: 10px;
+border: 1px solid rgb(138, 115, 115);
+border-radius:3px;
+background-color: blanchedalmond;
+
+}
+input[type="button"]{
+    border-radius:10px;
+    background-color: indianred;
+    color: black;
+    border-color: #ff4456;
+    width: 50px;
+    font-size: larger;
+    
+}
+.first-row{
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.second-row{
+    margin-top: 5px;
+    margin-left: 10px;
+}
+.third-row{
+    margin-top: 5px;
+    margin-left: 10px;
+}
+.last-row{
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+.different{
+    position:absolute;
+   }
+   button{
+       position: relative;
+       border-radius:5px;
+       border-color: #dd7e88;
+       background-color: rgb(218, 65, 65);
+       width: 45px;
+       height: 125px;
+       color: white;
+       font-size: larger;
+       top: -145px;
+       left: 230px;
+   }
